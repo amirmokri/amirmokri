@@ -57,8 +57,7 @@ class AmiraliMokri:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Backend & AI**
 
@@ -99,7 +98,7 @@ class AmiraliMokri:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirmokri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmokri&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" alt="streak" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmokri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmokri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&langs_count=8&hide=html,css" alt="top langs" />
 
 </div>
 
@@ -142,25 +141,6 @@ class AmiraliMokri:
 </picture>
 
 </div>
-
-<!-- ╭──────────────────────────  FEATURED WORK  ──────────────────────────╮ -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/amirmokri/visual-price-compare">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirmokri&repo=visual-price-compare&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="visual-price-compare" />
-</a>
-<a href="https://github.com/amirmokri/GoogleRankTracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirmokri&repo=GoogleRankTracker&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="GoogleRankTracker" />
-</a>
-
-</div>
-
-<blockquote align="center">
-  🛒 <b>visual-price-compare</b> — Django app that reads a product image and pulls live pricing & reviews from Persian e-commerce (Digikala, Torob).<br>
-  🔎 <b>GoogleRankTracker</b> — Selenium tool that monitors Google search rankings with multi-language keywords and human-like browsing.
-</blockquote>
 
 <!-- ╭──────────────────────────  DEV QUOTE  ──────────────────────────────╮ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Dev Quote
