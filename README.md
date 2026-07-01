@@ -26,8 +26,6 @@
 <!-- ╭──────────────────────────  ABOUT ME  ───────────────────────────────╮ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding" />
-
 ```python
 class AmiraliMokri:
     def __init__(self):
@@ -49,6 +47,10 @@ class AmiraliMokri:
 - 🧠 &nbsp;I love **complex problem-solving** — the messier the problem, the better
 - 🌱 &nbsp;Currently going deeper into **AI engineering & scalable backends**
 - 💬 &nbsp;Ask me about **Django, Python automation, or computer-vision pipelines**
+
+<div align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding" />
+</div>
 
 <br>
 
@@ -103,19 +105,7 @@ class AmiraliMokri:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirmokri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3" alt="stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amirmokri&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=70a5fd" alt="streak" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmokri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&langs_count=8&hide=html,css" alt="top langs" />
-
-</div>
-
-<!-- ╭──────────────────────────  TROPHY CASE  ────────────────────────────╮ -->
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Trophy Case
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amirmokri&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
