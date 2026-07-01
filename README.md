@@ -26,6 +26,8 @@
 <!-- ╭──────────────────────────  ABOUT ME  ───────────────────────────────╮ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="coding" />
+
 ```python
 class AmiraliMokri:
     def __init__(self):
