@@ -31,7 +31,7 @@ class AmiraliMokri:
     def __init__(self):
         self.role       = "Python Developer · Django Specialist · AI Engineer"
         self.location   = "Karaj, Iran 🇮🇷"
-        self.focus      = ["full-stack Django", "AI / ML", "web automation"]
+        self.focus      = ["full-stack Django", "AI / ML", "data analytics & BI"]
         self.loves      = "complex problem-solving projects"
         self.motto      = "if it's hard, it's interesting"
 
@@ -43,6 +43,7 @@ class AmiraliMokri:
 ```
 
 - 🔭 &nbsp;I build **full-stack Django apps** and **AI-powered tools** (image analysis, web automation, ranking intelligence)
+- 📊 &nbsp;I design **data-analytics pipelines & BI dashboards** — SQL Server ETL, dimensional modeling, Metabase
 - 🧠 &nbsp;I love **complex problem-solving** — the messier the problem, the better
 - 🌱 &nbsp;Currently going deeper into **AI engineering & scalable backends**
 - 💬 &nbsp;Ask me about **Django, Python automation, or computer-vision pipelines**
@@ -57,6 +58,7 @@ class AmiraliMokri:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Backend & AI**
@@ -70,14 +72,18 @@ class AmiraliMokri:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-**Data**
+**Data & Analytics**
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![ETL & Data Modeling](https://img.shields.io/badge/ETL_%26_Data_Modeling-1a1b27?style=for-the-badge&logo=databricks&logoColor=70a5fd)
+![BI Dashboards](https://img.shields.io/badge/BI_Dashboards-1a1b27?style=for-the-badge&logo=googleanalytics&logoColor=bf91f3)
 
 **DevOps & Tools**
 
