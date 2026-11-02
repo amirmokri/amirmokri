@@ -118,15 +118,6 @@ class AmiraliMokri:
 
 </div>
 
-<!-- ╭──────────────────────  3D CONTRIBUTION GRAPH  ──────────────────────╮ -->
-## <img src="https://media.giphy.com/media/W5epH92Yb7ejW/giphy.gif" width="28"> 3D Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-
-</div>
-
 <!-- ╭──────────────────────────  SNAKE 🐍  ───────────────────────────────╮ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Watch My Contributions Get Eaten
 
